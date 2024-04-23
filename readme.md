@@ -1,6 +1,6 @@
-<div align="center"> <img width="100%" src="assets/blueribbonsdiv.gif"> <!-- divider imagem -->
+<div align="center"> <img width="100%" src="imagens/blueribbonsdiv.gif"> <!-- divider imagem -->
 
-<img width="40%" src="assets/phoneblue.gif" align="center"> <hr style="border: 1px solid darkgray;"><br> <!--imagem anime + linha-->
+<img width="40%" src="imagens/phoneblue.gif" align="center"> <hr style="border: 1px solid darkgray;"><br> <!--imagem anime + linha-->
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playpen+Sans&size=30&duration=5000&pause=1000&color=1F9CF7&center=true&vCenter=true&random=false&width=435&lines=Exercicio+Banco+de+Dados;mySQL" alt="Typing SVG" /></a>
 </div> <!-- titulo-imagem + fechamento da div inicial-->
@@ -19,4 +19,4 @@ Aqui temos um exercício feito para a aula de **Banco de Dados**.
 .
 <br><br><hr>
 
-<img width="100%" src="assets/blueribbonsdiv.gif">
+<img width="100%" src="imagens/blueribbonsdiv.gif">
