@@ -16,7 +16,7 @@ Aqui temos um exercício feito para a aula de **Banco de Dados**.
 
 ### ꒱ codigo + modelo: ・.・✫・
 
-.
+<a href="word/Bruna da Silva Sant’ana Exercicio banco de dados.docx"> <font color=#1F9CF7FF> Arquivo word com o trabalho! </font></a>
 <br><br><hr>
 
 <img width="100%" src="imagens/blueribbonsdiv.gif">
